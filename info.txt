@@ -1,3 +1,4 @@
 You are reading my file info.txt
 It means that everything is OK.
 Good Luck
+Update: this file was created on GitHub Platform.
