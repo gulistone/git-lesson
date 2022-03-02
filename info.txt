@@ -2,4 +2,5 @@ You are reading my file info.txt
 It means that everything is OK.
 Good Luck
 Update: this file was created on GitHub Platform.
-And now I putted changes into the file from my local PC.
+And now I putted changes into the file from my local PC
+fd;lkjsdljlskdj
